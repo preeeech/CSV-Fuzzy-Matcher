@@ -15,6 +15,7 @@ This project significantly reduces manual effort in cleaning and matching data.
 
 ## Project Structure
 ---
+. ├── data/ # Folder for input CSV files │ ├── APN and OPS Combined Shop List for Loading.csv │ ├── CRM Shops Normalized Addresses.csv ├── full_data_output/ # Folder for all matches (confident and maybe) │ ├── confident_matches.csv │ ├── maybe_matches.csv ├── final_data_output/ # Folder for final matches (filtered data) │ ├── confident_matches.csv │ ├── maybe_matches.csv ├── data_matching_script.py # Main Python script ├── README.md # Documentation
 
 ## Setup Instructions
 
