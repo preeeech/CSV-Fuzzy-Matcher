@@ -25,5 +25,5 @@ This project significantly reduces manual effort in cleaning and matching data.
 ### Install Dependencies
 ```bash
 pip install pandas rapidfuzz rich
-## About the Project:
-Uses Levenshtein distance focused on data normalization, particularly for improving contact and address data comparison to automate the process of matching records that were similar.
+
+
